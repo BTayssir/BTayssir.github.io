@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Contact
 permalink: /portfolio/
 ---
 
